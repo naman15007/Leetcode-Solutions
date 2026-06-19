@@ -1,8 +1,9 @@
 class Solution {
     public int findNumbers(int[] nums) {
     int count = 0 ;
-    for(int i = 0 ; i < nums.length ; i++){
-        int digit = String.valueOf(nums[i]).length();
+    int n  = nums.length;
+    for(int num : nums){
+        int digit = String.valueOf(num).length();
         if(digit % 2 == 0){
             count++;
         }
