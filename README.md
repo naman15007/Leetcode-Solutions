@@ -17,6 +17,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/naman15007/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -59,4 +61,9 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
