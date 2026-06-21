@@ -23,6 +23,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/naman15007/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/naman15007/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,4 +85,5 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
