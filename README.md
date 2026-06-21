@@ -9,6 +9,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0001-two-sum](https://github.com/naman15007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +70,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
