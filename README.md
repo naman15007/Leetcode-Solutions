@@ -53,6 +53,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/naman15007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naman15007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Sorting
@@ -86,4 +87,8 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
