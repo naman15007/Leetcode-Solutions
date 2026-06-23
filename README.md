@@ -9,6 +9,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0001-two-sum](https://github.com/naman15007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/naman15007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/naman15007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
