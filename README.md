@@ -41,6 +41,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/naman15007/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -58,6 +59,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0009-palindrome-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -99,6 +101,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0058-length-of-last-word](https://github.com/naman15007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/naman15007/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
