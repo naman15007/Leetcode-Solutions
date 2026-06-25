@@ -65,6 +65,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/naman15007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -115,4 +116,8 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
