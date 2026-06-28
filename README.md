@@ -43,6 +43,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0001-two-sum](https://github.com/naman15007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -83,6 +84,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -118,6 +120,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/naman15007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/naman15007/Leetcode-Solutions/tree/master/0709-to-lower-case) |
