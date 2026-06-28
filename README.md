@@ -66,6 +66,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
