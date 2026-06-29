@@ -41,6 +41,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naman15007/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0007-reverse-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -119,6 +121,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/naman15007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0344-reverse-string) |
