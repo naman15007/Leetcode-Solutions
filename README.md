@@ -17,6 +17,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naman15007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -75,6 +77,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -89,6 +92,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naman15007/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +123,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/naman15007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -142,6 +147,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Heap (Priority Queue)
 |  |
