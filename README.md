@@ -167,6 +167,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/naman15007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/naman15007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/naman15007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -225,4 +226,8 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naman15007/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/naman15007/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/naman15007/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/naman15007/Leetcode-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
