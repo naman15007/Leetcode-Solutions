@@ -163,6 +163,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman15007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/naman15007/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -236,4 +237,8 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/naman15007/Leetcode-Solutions/tree/master/0071-simplify-path) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/naman15007/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
