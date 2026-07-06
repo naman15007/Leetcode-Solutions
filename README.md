@@ -26,6 +26,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naman15007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naman15007/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0242-valid-anagram](https://github.com/naman15007/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +130,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0053-maximum-subarray](https://github.com/naman15007/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -208,6 +211,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naman15007/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
