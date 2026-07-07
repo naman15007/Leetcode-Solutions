@@ -50,6 +50,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/naman15007/Leetcode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naman15007/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/naman15007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -251,4 +253,5 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
