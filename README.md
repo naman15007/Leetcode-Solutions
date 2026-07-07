@@ -28,6 +28,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naman15007/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -246,4 +247,8 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/naman15007/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
