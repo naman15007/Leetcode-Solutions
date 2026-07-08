@@ -103,6 +103,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -140,6 +141,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,4 +259,12 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
