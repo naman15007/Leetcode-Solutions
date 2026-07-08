@@ -65,6 +65,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -193,6 +194,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naman15007/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/naman15007/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/naman15007/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
