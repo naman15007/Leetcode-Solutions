@@ -3,8 +3,7 @@ class Solution {
         int left = 0;
         int window = 0;
         int ans = 0;
-        int right = 0;
-                for (; right< nums.length ; right++){
+        for(int right = 0; right< nums.length ; right++){
             window += nums[right];
         
         while(window + k < right-left+1){
@@ -16,4 +15,5 @@ class Solution {
         return ans;
     
     }
+
 }
