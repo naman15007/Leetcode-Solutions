@@ -3,16 +3,15 @@ class Solution {
          int pos = 0;
          int neg = 1;
          int n = nums.length;
-         int [] ans = new int [n];
-
-         for(int num: nums){
+         int [] ans = new int[n];
+         for(int num : nums){
             if(num>0){
-                ans[pos]=num;
-                pos = pos + 2;
+                ans[pos] = num;
+                pos += 2;
             }
             else{
-                ans[neg]= num;
-                neg= neg+2;
+                ans[neg] = num;
+                neg += 2;
             }
          }
          return ans;
