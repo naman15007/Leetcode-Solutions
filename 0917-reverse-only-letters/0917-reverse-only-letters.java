@@ -1,23 +1,32 @@
 class Solution {
     public String reverseOnlyLetters(String s) {
      int left = 0;
-     int right = s.length()-1;
-     char [] ch = s.toCharArray();   
+     int right = s.length() - 1;
+     char [] str = s.toCharArray();
      while(left < right){
-        if(isEnglish(ch[left])){
-            while(!isEnglish(ch[right])){
+        if(isEnglish(str[left])){
+            while(!isEnglish(str[right])){
                 right--;
             }
-            char temp = ch[left];
-            ch[left] = ch[right];
-            ch[right] = temp;
+            char temp = str[left];
+            str[left] = str[right];
+            str[right] = temp;
             right--;
         }
         left++;
      }
-    return new String(ch);
+     return new String(str);
     }
-      public boolean isEnglish(char c){
-        return (c >= 65 && c <= 90) || (c >= 97 && c <= 122);
-    }
-}
+
+
+
+     public boolean isEnglish(char ch){
+        if(ch >= 65 && ch<= 90 ||  ch>= 97 && ch<=122){
+            return true;
+        } 
+
+        else{
+            return false;
+        }
+     }
+     }
