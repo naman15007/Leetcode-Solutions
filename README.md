@@ -112,6 +112,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/naman15007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/naman15007/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naman15007/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -297,9 +298,11 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
