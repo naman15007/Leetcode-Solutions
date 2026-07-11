@@ -70,6 +70,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -141,6 +142,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/naman15007/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/naman15007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -210,6 +212,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/naman15007/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naman15007/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/naman15007/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/naman15007/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
