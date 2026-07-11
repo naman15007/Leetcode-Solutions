@@ -112,6 +112,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/naman15007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/naman15007/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
@@ -267,6 +268,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/naman15007/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/naman15007/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
