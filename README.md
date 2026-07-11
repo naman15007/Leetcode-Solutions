@@ -113,6 +113,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [1925-count-square-sum-triples](https://github.com/naman15007/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/naman15007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naman15007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/naman15007/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
 | ------- |
