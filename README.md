@@ -17,6 +17,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0056-merge-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/naman15007/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/naman15007/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/naman15007/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naman15007/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/naman15007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/naman15007/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/naman15007/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -195,6 +197,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0035-search-insert-position](https://github.com/naman15007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/naman15007/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/naman15007/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman15007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
