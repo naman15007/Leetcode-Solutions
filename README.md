@@ -55,6 +55,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [2016-maximum-difference-between-increasing-elements](https://github.com/naman15007/Leetcode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naman15007/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/naman15007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -142,6 +144,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/naman15007/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -243,6 +246,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/naman15007/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
