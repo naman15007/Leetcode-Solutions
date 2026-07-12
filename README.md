@@ -30,6 +30,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0283-move-zeroes](https://github.com/naman15007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -72,6 +73,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0383-ransom-note](https://github.com/naman15007/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naman15007/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
