@@ -38,6 +38,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naman15007/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naman15007/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/naman15007/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -150,6 +151,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -160,6 +162,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/naman15007/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -255,6 +258,7 @@ MY LEETCODE PROGRESS IS HERE😌
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/naman15007/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
@@ -262,6 +266,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0053-maximum-subarray](https://github.com/naman15007/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -323,4 +328,16 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naman15007/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
