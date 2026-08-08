@@ -44,6 +44,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0977-squares-of-a-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/naman15007/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/naman15007/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/naman15007/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0771-jewels-and-stones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/naman15007/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/naman15007/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -104,6 +106,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0560-subarray-sum-equals-k](https://github.com/naman15007/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/naman15007/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/naman15007/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/naman15007/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
@@ -132,6 +135,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naman15007/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naman15007/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -319,6 +323,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/naman15007/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/naman15007/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naman15007/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/naman15007/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Brainteaser
