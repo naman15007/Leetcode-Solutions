@@ -39,6 +39,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0485-max-consecutive-ones](https://github.com/naman15007/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/naman15007/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/naman15007/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/naman15007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naman15007/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -97,6 +98,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/naman15007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/naman15007/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/naman15007/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -318,6 +320,7 @@ MY LEETCODE PROGRESS IS HERE😌
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/naman15007/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0682-baseball-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Interactive
 |  |
 | ------- |
