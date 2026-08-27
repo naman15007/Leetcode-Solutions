@@ -1,32 +1,28 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int max = nums[0], min = nums[0];
-        for(int i = 0 ; i< nums.length ; i++){
-            if(map.containsKey(nums[i])){
-                map.put(nums[i], map.get(nums[i])+1);
+        int min = nums[0] , max = nums[0];
+        Map <Integer , Integer> map = new HashMap<>();
+        for(int num : nums){
+            if(map.containsKey(num)){
+                map.put(num , map.get(num) + 1);
+            }else{
+            map.put(num , 1);
             }
-            else{
-                map.put(nums[i],1);
+            if(num < min){
+                min = num;
             }
-            if(max < nums[i]){
-                max = nums[i];
+            if(num > max){
+                max = num;
             }
-            if(min > nums[i]){
-                min = nums[i];
-            }
-
         }
         int index = 0;
-        for(int i = min ; i<=max ; i++){
-            while(map.getOrDefault(i,0)>0){
-                nums[index]=i;
+        for(int i = min ; i <= max ; i++){
+            while(map.getOrDefault(i,0) > 0){
+                nums[index] = i;
                 index++;
-                map.put(i,map.get(i)-1);
+                map.put(i , map.get(i) - 1);
             }
         }
-        return nums;
+        return nums; 
     }
-
-    }
-
+}
