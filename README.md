@@ -13,6 +13,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naman15007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/naman15007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/naman15007/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naman15007/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/naman15007/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | ------- |
 | [0001-two-sum](https://github.com/naman15007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/naman15007/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/naman15007/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/naman15007/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/naman15007/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/naman15007/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
