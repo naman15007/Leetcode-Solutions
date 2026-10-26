@@ -1,25 +1,34 @@
-import java.util.*;      
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> uniquetriplet = new HashSet<>();            //[-1,0,1,2,-1,-4] nums
-        for(int i = 0; i < nums.length ; i++){
-            int target = - nums[i]; // nums[i] = a      
-            HashSet<Integer> set = new HashSet<>();
-            for(int j = i+1 ; j < nums.length ; j++){  // b = value
-            int third = target - nums[j]; /// third = value
-            
-            if(set.contains(third)){
-                List <Integer> triplet = new ArrayList<>();
-                triplet.add(nums[i]); // a
-                triplet.add(nums[j]); // b
-                triplet.add(third);// c
-
-                Collections.sort(triplet);
-                uniquetriplet.add(triplet);
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i = 0 ; i < nums.length - 2 ; i++){
+            if( i > 0 && nums[i] == nums[i-1]){
+                continue;
             }
-            set.add(nums[j]);
+            int left = i + 1;
+            int right = nums.length - 1;
+            while(left < right){
+            int sum = nums[i] + nums[left] + nums[right];
+            if(sum == 0){
+                ans.add(Arrays.asList(nums[i] , nums[left] , nums[right]));
+                while(left < right &&  nums[left] == nums[left+1]){
+                    left++;
+                }
+                while( right > left && nums[right] == nums[right - 1]){
+                    right--;
+                }
+                left++;
+                right--;
             }
+            else if(sum > 0){
+                right--;
+            }
+            else{
+                left++;
+            }
+          }
         }
-        return new ArrayList<>(uniquetriplet);
+        return ans;
     }
 }
