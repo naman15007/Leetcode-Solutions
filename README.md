@@ -26,6 +26,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman15007/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naman15007/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/naman15007/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naman15007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/naman15007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/naman15007/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@ MY LEETCODE PROGRESS IS HERE😌
 | [0070-climbing-stairs](https://github.com/naman15007/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naman15007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naman15007/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/naman15007/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/naman15007/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/naman15007/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/naman15007/Leetcode-Solutions/tree/master/1025-divisor-game) |
